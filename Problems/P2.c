@@ -1,7 +1,7 @@
 /*
 PROJECT EULER
-PROBLEM - 1
-MULTIPLES OF 3 0R 5
+PROBLEM - 2
+Even Fibonacci Numbers
 */
 
 #include <stdio.h>
