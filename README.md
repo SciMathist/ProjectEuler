@@ -1,11 +1,11 @@
 # ProjectEuler
 ## Solution to the Project Euler problems in C/C++
 
-## Authors
+### Authors
 
 - [@SciMathist](https://www.github.com/SciMathist)
 
-## License
+### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
