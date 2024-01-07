@@ -1,3 +1,9 @@
+/*
+PROJECT EULER
+PROBLEM - 1
+MULTIPLES OF 3 0R 5
+*/
+
 #include <stdio.h>
 
 int main(){
